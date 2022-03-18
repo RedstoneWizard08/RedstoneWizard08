@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on [OpenDocs](https://github.com/opendocs-editor).
 - 🌱 I’m currently learning Ruby.
 - 🤔 I’m looking for help with my [GitLab MR](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/81101).
