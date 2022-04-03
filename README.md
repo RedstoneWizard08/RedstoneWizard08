@@ -10,8 +10,13 @@
 
 ![RedstoneWizard08's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RedstoneWizard08&theme=vue-dark&show_icons=true&count_private=true)
 
-
-![RedstoneWizard08's GitLab Stats](https://gitlab-readme-stats.vercel.app/api?username=RedstoneWizard08&theme=vue-dark&show_icons=true&count_private=true)
-
 ![RedstoneWizard08's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RedstoneWizard08)
 
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RedstoneWizard08&repo=NBuild)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RedstoneWizard08&repo=Pterodocker)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RedstoneWizard08&repo=DockerProxy)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RedstoneWizard08&repo=mern-cli)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RedstoneWizard08&repo=workspace-images)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RedstoneWizard08&repo=vscodeweb-gitlab)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RedstoneWizard08&repo=Node.js-Docker-Images)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RedstoneWizard08&repo=vscode-test-web)
