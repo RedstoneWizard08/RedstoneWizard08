@@ -12,3 +12,6 @@
 
 
 ![RedstoneWizard08's GitLab Stats](https://gitlab-readme-stats.vercel.app/api?username=RedstoneWizard08&theme=vue-dark&show_icons=true&count_private=true)
+
+![RedstoneWizard08's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RedstoneWizard08)
+
