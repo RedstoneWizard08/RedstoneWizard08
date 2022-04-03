@@ -9,9 +9,7 @@
 
 
 ![RedstoneWizard08's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RedstoneWizard08&theme=vue-dark&show_icons=true&count_private=true)
-
 ![RedstoneWizard08's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?theme=vue-dark&username=RedstoneWizard08)
-
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?theme=vue-dark&username=RedstoneWizard08&repo=NBuild)
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?theme=vue-dark&username=RedstoneWizard08&repo=Pterodocker)
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?theme=vue-dark&username=RedstoneWizard08&repo=DockerProxy)
