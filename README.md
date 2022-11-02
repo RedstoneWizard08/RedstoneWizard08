@@ -28,6 +28,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50px" />&nbsp;
 </p>
 
-![RedstoneWizard08](https://github-readme-stats.vercel.app/api?username=RedstoneWizard08&theme=vue-dark)
-![RedstoneWizard08](https://github-readme-stats.vercel.app/api/top-langs?username=RedstoneWizard08&show_icons=true&locale=en&layout=compact&theme=vue-dark)
+![RedstoneWizard08](https://github-readme-stats.vercel.app/api?username=RedstoneWizard08&theme=vue-dark)\
+![RedstoneWizard08](https://github-readme-stats.vercel.app/api/top-langs?username=RedstoneWizard08&show_icons=true&locale=en&layout=compact&theme=vue-dark)\
 ![RedstoneWizard08](https://github-readme-streak-stats.herokuapp.com/?user=RedstoneWizard08&theme=vue-dark)
