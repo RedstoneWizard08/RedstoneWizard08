@@ -1,10 +1,9 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [Choo.js](https://github.com/choo-js).
-- 🌱 I’m currently learning Rust.
-- 🤔 I’m looking for help with my [GitLab MR](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/81101).
+- 🔭 I’m currently working on [NodeForum](https://github.com/RedstoneWizard08/NodeForum).
+- 🌱 I’m currently learning PostgreSQL.
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I've been coding for six years.
+- ⚡ Fun fact: I've been coding for seven years.
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=RedstoneWizard08&margin-w=10&row=1&no-frame=true&no-bg=true)
 
@@ -27,4 +26,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="50px" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50px" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50px" />&nbsp;
+</p>
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=RedstoneWizard08" alt="RedstoneWizard08" />
+  
+  <img align="center"
+       src="https://github-readme-stats.vercel.app/api/top-langs?username=RedstoneWizard08&show_icons=true&locale=en&layout=compact"
+       alt="RedstoneWizard08" />
+  
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RedstoneWizard08" alt="RedstoneWizard08" />
 </p>
