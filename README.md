@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [NodeForum](https://github.com/RedstoneWizard08/NodeForum).
-- 🌱 I’m currently learning PostgreSQL.
+- 🔭 I’m currently working on [Mayhem](https://github.com/RedstoneWizard08/mayhem).
+- 🌱 I’m currently learning NeoVim.
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I've been coding for seven years.
+- ⚡ Fun fact: I've been coding for eight years.
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=RedstoneWizard08&margin-w=10&row=1&no-frame=true&no-bg=true)
 
