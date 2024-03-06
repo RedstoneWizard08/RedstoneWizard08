@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [Mayhem](https://github.com/RedstoneWizard08/mayhem).
-- 🌱 I’m currently learning NeoVim.
+- 🔭 I’m currently working on [QuickScript](https://github.com/RedstoneWizard08/quickscript).
+- 🌱 I’m currently learning how to use Cranelift.
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I've been coding for eight years.
+- ⚡ Fun fact: I've been coding for nine years.
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=RedstoneWizard08&margin-w=10&row=1&no-frame=true&no-bg=true)
 
