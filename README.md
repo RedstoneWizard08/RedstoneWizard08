@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on [Wormhole](https://github.com/RedstoneWizard08/Wormhole).
-- 🌱 I’m currently learning how make a mod manager.
+- 🌱 I’m currently learning how to make a mod manager.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I've been coding for ten years.
 
