@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [QuickScript](https://github.com/RedstoneWizard08/quickscript).
-- 🌱 I’m currently learning how to use Cranelift.
+- 🔭 I’m currently working on [Wormhole](https://github.com/RedstoneWizard08/Wormhole).
+- 🌱 I’m currently learning how make a mod manager.
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I've been coding for nine years.
+- ⚡ Fun fact: I've been coding for ten years.
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=RedstoneWizard08&margin-w=10&row=1&no-frame=true&no-bg=true)
 
