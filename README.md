@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [Wormhole](https://github.com/RedstoneWizard08/Wormhole).
-- 🌱 I’m currently learning how to make a mod manager.
+- 🔭 I’m currently working on [The Broken Script](https://modrinth.com/mod/the-broken-script).
+- 🌱 I’m currently learning complex rendering.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I've been coding for ten years.
 
